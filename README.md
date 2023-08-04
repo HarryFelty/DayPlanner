@@ -12,6 +12,15 @@ N/A
 
 This project can be used to plan out the day. It included the hours 9am-5pm, but more could be added. Upon saving entries, they remain saved until local storage is cleared, or they overwritten. This project can also be used for educational purposes to demonstrate practical used for jQuery, Dayjs, and DOM traversal.
 
+Repo: https://github.com/HarryFelty/DayPlanner
+
+Site: https://harryfelty.github.io/DayPlanner/
+
+![DayPlannerSS](https://github.com/HarryFelty/DayPlanner/assets/125701349/43c72e6f-164a-4c3b-ba2c-50e2baa6a367)
+
+
+
+
 ## Credits
 
 N/A
